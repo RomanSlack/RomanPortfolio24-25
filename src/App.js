@@ -85,6 +85,9 @@ function App() {
         <h2 className="text-4xl font-bold">Project Experience</h2>
       </section>
 
+
+
+
       {/* Bubble Navigation and Contact Button */}
       {showStickyElements && (
         <>
